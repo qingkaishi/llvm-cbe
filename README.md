@@ -7,7 +7,7 @@ resurrected LLVM "C Backend", with improvements
 INSTALLATION INSTRUCTIONS
 =========================
 
-This version of the LLVM-CBE library works with LLVM 8.0. You will have
+This version of the LLVM-CBE library works with LLVM 9.0. You will have
 to compile this version of LLVM before you try to use LLVM-CBE. This
 guide will walk you through the compilation and installation of both
 tools and show usage statements to verify that the LLVM-CBE library is
